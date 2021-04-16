@@ -1,3 +1,3 @@
-# proyectoreact
+# Puede visualizarse en https://226ue.sse.codesandbox.io/
 Proyecto del curso práctico de React en Platzi
-Puede visualizarse en https://codesandbox.io/s/platzivideo-226ue
+
